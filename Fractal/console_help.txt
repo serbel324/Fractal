@@ -1,0 +1,23 @@
+################### CONSOLE MANUAL ###################
+get parameter - get parameter's value
+set parameter val - set parameter's value
+	
+    -------- available parameters --------
+    pos - x, y coordinates
+    scale 
+    itnum - iterations before stop
+    phase - h, s and v values of current color's phase
+    period - h, s and v values of current color's period
+
+help - show this manual
+
+update - update fractal matrix
+draw - update color matrix
+
+kill - exit
+
+save - save picture to standart file
+save filename - save picture to file with chosen name
+
+restart - load parameteres from config files and restart
+help - show this manual
